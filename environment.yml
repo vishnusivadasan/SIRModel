@@ -10,7 +10,6 @@ dependencies:
     - pandas
     - matplotlib
     - tqdm
-    - random
     - ipywidgets
     - scipy
     - time 
