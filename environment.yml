@@ -7,8 +7,6 @@ dependencies:
   - numpy
   - pip
   - pip:
-    - nbgitpuller
-    - sphinx-gallery
     - pandas
     - matplotlib
     - tqdm
