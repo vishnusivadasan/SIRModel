@@ -1,4 +1,5 @@
 # An SIR Model Dashboard in Jupyter 
 
-https://mybinder.org/v2/gh/vishnusivadasan/SIRModel/master?filepath=Model.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vishnusivadasan/SIRModel/master?filepath=Model.ipynb)
+
 
